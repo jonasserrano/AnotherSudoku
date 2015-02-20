@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRJ_AnotherSudoku", "PRJ_AnotherSudoku\PRJ_AnotherSudoku.csproj", "{34087502-a0a9-4dde-b3ab-cc96723be736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34087502-A0A9-4DDE-B3AB-CC96723BE736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34087502-A0A9-4DDE-B3AB-CC96723BE736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34087502-A0A9-4DDE-B3AB-CC96723BE736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34087502-A0A9-4DDE-B3AB-CC96723BE736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
